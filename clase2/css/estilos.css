@@ -1,0 +1,21 @@
+body{
+    background-color: #e8e8e8;
+    color: #666;
+    font-family: Nunito;
+
+    /* ancho fijo + centrado */
+    width: 800px;
+    margin: auto;
+
+}
+h2{
+    padding-left: 14px;
+}
+a{
+    margin: 8px;
+    color: rgb(171, 72, 5);
+    text-decoration: none; /* quitar el subrayado */
+}
+a:hover{
+    color: rgb(216, 99, 21);
+}
