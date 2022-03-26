@@ -1,0 +1,29 @@
+*{
+    /* para que no incremente el padding */
+    box-sizing: border-box;
+}
+
+/* margin es la separación hacia fuera de una caja */
+#verde{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(147, 239, 207);
+    margin-left: 70px;
+}
+
+/* padding es la separación hacia dentro de una caja */
+#naranja{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(239, 198, 147);
+    padding: 50px;
+}
+
+form input{
+    width: 220px;
+    margin-top: 10px;
+    padding: 8px;
+    border: 1px solid coral;
+    border-radius: 4px;
+    color: rgb(101, 34, 10);
+}

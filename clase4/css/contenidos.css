@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    color: #707070;
+
+    width: 1024px;
+    margin: auto; /* ancho + margin:auto   centran la caja  */
+}
+
+#noticias{
+    display: flex; 
+    justify-content: space-between;
+}
+
+#noticias article{
+    width: 310px;
+    padding: 15px;
+}
+
+#noticias h2{
+    margin: 10px 0px;
+}
+
