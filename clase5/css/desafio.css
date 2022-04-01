@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;700;900&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Mulish', sans-serif;
+}
+header{
+    height: 100px;
+}
+
+main{
+    width: 700px;
+    margin: auto;
+}
+
+#infoCompras{
+
+}
+    h1{
+        font-size: 26px;
+        font-weight: 900;
+        color: #04146c;
+    }
+
+    #infoCompras img{
+        width: 56px;
+        vertical-align: middle;
+        margin-right: 12px;
+    }
+    h2{
+        font-size: 18px;
+        font-weight: 700;
+        color: #0a2ff1;
+        margin-top: 5px;
+    }
+    #infoCompras p{
+        color: #04146c;
+        padding-left: 68px;
+    }
